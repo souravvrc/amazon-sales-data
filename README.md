@@ -156,9 +156,11 @@ The project also includes an interactive Power BI Dashboard featuring:
 
 ## 📸 Dashboard Preview
 
-<img width="100%" alt="Amazon Sales Dashboard" src="dashboard.png">
+<img width="648" height="366" alt="image" src="https://github.com/user-attachments/assets/910b0242-472d-4e68-a4da-7a8666cfae98" /> 
+<img width="643" height="368" alt="image" src="https://github.com/user-attachments/assets/d03fff34-a67c-43d8-b81d-4e1d4651b75e" />
+<img width="632" height="365" alt="image" src="https://github.com/user-attachments/assets/b2352001-bb4d-4b59-a293-b5f5f4ef2bde" />
 
-> Replace the image path with your dashboard screenshot.
+
 
 ---
 
@@ -184,35 +186,6 @@ Amazon-Sales-Analysis/
 └── Requirements.txt
 ```
 
----
-
-## ▶️ How to Run
-
-### Clone Repository
-
-```bash
-git clone https://github.com/yourusername/Amazon-Sales-Analysis.git
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Open:
-
-```bash
-Amazon_Sales_Analysis.ipynb
-```
-
----
 
 ## 📚 Learning Outcomes
 
@@ -233,12 +206,5 @@ Amazon_Sales_Analysis.ipynb
 Final Year Engineering Student  
 Aspiring Data Analyst | Business Analyst | Data Scientist
 
-### Connect with Me
-
-- LinkedIn: [Add Your LinkedIn]
-- GitHub: [Add Your GitHub]
-- Email: [Add Your Email]
-
----
 
 ## ⭐ If you found this project useful, consider giving it a star!
