@@ -158,10 +158,6 @@ The project also includes an interactive Power BI Dashboard featuring:
 
 <img width="835" height="482" alt="image" src="https://github.com/user-attachments/assets/04802379-7f72-48d0-88ad-630ad9e5af87" />
 
-<img width="643" height="368" alt="image" src="https://github.com/user-attachments/assets/d03fff34-a67c-43d8-b81d-4e1d4651b75e" />
-<img width="632" height="365" alt="image" src="https://github.com/user-attachments/assets/b2352001-bb4d-4b59-a293-b5f5f4ef2bde" />
-
-
 
 ---
 
